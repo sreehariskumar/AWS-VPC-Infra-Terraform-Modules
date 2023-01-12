@@ -13,5 +13,19 @@ The modules here are capable for permforming the following functions:
 8. Association of public route table with public subnets.
 9. Association of private route table with private subnets.
 
+
 For the terraform configurations for the same, please visit:
 [Reuse-Configuration-Using-Terraform-Modules](https://github.com/sreehariskumar/Reuse-Configuration-Using-Terraform-Modules)
+
+
+Use the following command to clone the repository
+```s
+git clone https://github.com/sreehariskumar/AWS-VPC-Modules/
+```
+```s
+cd AWS-VPC-Modules
+terraform init
+terraform validate
+terraform plan
+terraform apply
+```
