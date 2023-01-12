@@ -13,4 +13,4 @@ The modules here are capable for permforming the following functions:
 9. Association of private route table with private subnets.
 
 For the terraform configurations for the same, please visit:
-[AWS-VPC-Infra-Terraform-Configuration](https://github.com/sreehariskumar/AWS-VPC-Infra-Terraform-Configuration)
+[AWS-VPC-Infra-Terraform-Configuration](https://github.com/sreehariskumar/Reuse-Configuration-Using-Terraform-Modules)
