@@ -22,10 +22,3 @@ Use the following command to clone the repository:
 ```s
 git clone https://github.com/sreehariskumar/AWS-VPC-Modules/
 ```
-```s
-cd AWS-VPC-Modules
-terraform init
-terraform validate
-terraform plan
-terraform apply
-```
