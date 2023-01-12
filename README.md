@@ -18,7 +18,7 @@ For the terraform configurations for the same, please visit:
 [Reuse-Configuration-Using-Terraform-Modules](https://github.com/sreehariskumar/Reuse-Configuration-Using-Terraform-Modules)
 
 
-Use the following command to clone the repository
+Use the following command to clone the repository:
 ```s
 git clone https://github.com/sreehariskumar/AWS-VPC-Modules/
 ```
